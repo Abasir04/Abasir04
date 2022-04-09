@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abasir04
-- 👀 I’m interested in software engineering, data science and web dev
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on many projects in the above aspects
+- 👀 I’m interested in software engineering, data science and web dev.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on many projects in the above aspects.
 
 
 <!---
